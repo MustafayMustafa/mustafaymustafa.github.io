@@ -6,3 +6,6 @@ start:
 
 stop:
 	docker-compose down
+
+bundle:
+	bundle-update
